@@ -1,0 +1,1 @@
+This is Stash change in File1, Change for untracked file
